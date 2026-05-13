@@ -1,4 +1,4 @@
-package org.example.medical_system_update;
+package com.project.medicalsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package org.example.medical_system_update.model;
+package com.project.medicalsystem.model;
 
 public class Patient {
 
